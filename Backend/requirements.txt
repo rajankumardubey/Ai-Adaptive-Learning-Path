@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+redis
+pydantic-settings
+supabase
+SQLAlchemy
+python-jose
+passlib[bcrypt]
+pydantic[email]
+email-validator
+uvicorn fastapi
+numpy
+openai
+pytesseract
+scikit-learn pillow
+sentence-transformers torch
+python-multipart

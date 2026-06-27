@@ -1,0 +1,13 @@
+{
+  "name": "ai-adaptive-learning-platform",
+  "version": "1.0.0",
+  "description": "AI Adaptive Learning Path Platform",
+  "private": true,
+  "scripts": {
+    "start": "cd Frontend && npm start",
+    "build": "cd Frontend && npm build",
+    "dev": "cd Frontend && npm start",
+    "frontend": "cd Frontend && npm start",
+    "backend": "cd Backend && python app.py"
+  }
+}

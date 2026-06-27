@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-06-27T13:59:56.646011",
+  "training_config": {
+    "num_students": 100,
+    "num_interactions": 5000,
+    "epochs": 200,
+    "batch_size": 32,
+    "hidden_size": 16
+  },
+  "training_metrics": {
+    "final_train_loss": 0.17207833648807946,
+    "final_val_loss": 0.16028204236876087,
+    "epochs_trained": 70,
+    "best_val_loss": 0.1599441346866141
+  },
+  "evaluation_metrics": {
+    "mae": 7.771602051124779,
+    "rmse": 9.718056348929967,
+    "r_squared": 0.6708211362032785
+  },
+  "model_info": {
+    "architecture": "5 -> 16 -> 1",
+    "trained": true,
+    "learning_rate": 0.01,
+    "parameters": 113
+  }
+}
